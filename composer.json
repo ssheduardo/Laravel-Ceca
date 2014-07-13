@@ -1,9 +1,10 @@
 {
     "name": "ubublog/laravel-ceca",
     "description": "Pasarela de Pago Ceca para Laravel 4.2",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Ubublog",
+            "name": "Eduardo Diaz",
             "email": "ssh.eduardo@gmail.com"
         }
     ],
