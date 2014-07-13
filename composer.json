@@ -1,6 +1,6 @@
 {
-    "name": "ubublog/ceca",
-    "description": "Pasarela de Pago Ceca",
+    "name": "ubublog/laravel-ceca",
+    "description": "Pasarela de Pago Ceca para Laravel 4.2",
     "authors": [
         {
             "name": "Ubublog",
